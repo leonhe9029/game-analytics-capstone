@@ -4,4 +4,3 @@ matplotlib
 scikit-learn
 sqlalchemy
 streamlit
-Add Python dependencies
