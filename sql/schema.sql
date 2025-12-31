@@ -64,4 +64,3 @@ CREATE INDEX idx_matches_player ON matches(player_id);
 CREATE INDEX idx_matches_patch ON matches(patch_version);
 CREATE INDEX idx_sessions_player ON sessions(player_id);
 CREATE INDEX idx_sessions_patch ON sessions(patch_version);
-
